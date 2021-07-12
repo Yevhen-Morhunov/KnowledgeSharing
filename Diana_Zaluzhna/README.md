@@ -11,4 +11,7 @@
 ### Pro_Devops_with_Google_Cloud_Platform_With_Docker,_Jenkins,_and
 ---
 Не читала, але її дуже рекомендували.  
-
+  
+  
+## Links  
+- [Безкоштовний курс по мережах від Cisco для початківців](https://www.netacad.com/courses/networking/networking-essentials)
