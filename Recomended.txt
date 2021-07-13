@@ -1,3 +1,4 @@
+networking course https://www.netacad.com/courses/networking/networking-essentials
 https://git-scm.com/book/uk/v2/
 How Does the Internet Work?   https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm  (added by Olexiy_Bahirev(AlexEquinox))
 https://www.youtube.com/watch?v=QtcFYeDdiS8
