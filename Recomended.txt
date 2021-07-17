@@ -2,3 +2,4 @@ How Does the Internet Work?   https://web.stanford.edu/class/msande91si/www-spr0
 https://www.youtube.com/watch?v=QtcFYeDdiS8
 https://habr.com/ru/sandbox/37865/
 How to Make the Most of the Free Intro to DevOps Course on edX - https://www.linuxfoundation.org/blog/2017/01/how-to-make-the-most-of-the-free-intro-to-devops-course-on-edx
+Cheat sheet for README.md file syntax - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
